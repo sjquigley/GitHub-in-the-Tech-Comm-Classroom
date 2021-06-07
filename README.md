@@ -31,7 +31,7 @@ Learn...
 ## Workshop Activities
 Samantha Whelpley and Stephen Quigley
 
-**Method #1 [Forked or InterRepository Collaboration](Method_1_InterRepository_or_Forked_Collaboration)**
+**Method #1 [Forked or InterRepository Collaboration](Method_1_InterRepository_or_Forked_Collaboration.md)**
 
 (Fork a repository, create your own version while contributing to the base repository upstream.)  
 
