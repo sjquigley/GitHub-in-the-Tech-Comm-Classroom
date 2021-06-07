@@ -1,6 +1,11 @@
 #Writing Infrastructures
 Getting Started with GitHub in the Tech Comm Classroom
 
+This session includes ASL interpretation and CART captioning.
+Access CART captions at https://www.streamtext.net/player?event=C4.
+Pin ASL interpreters’ videos: in Speaker View, hover your mouse over the interpreter’s video, click the three dots (...), then select Pin.
+Click “Ask for Help” in the meeting controls if you need assistance accessing these services.
+
 
 ## Workshop Goals
 Learn...
@@ -17,8 +22,8 @@ Learn...
 
 **-Writing Infrastructures** *Stephen Quigley, University of Pittsburgh* - [Link to presentation](https://sjquigley.github.io/Stephen-Quigley-ATTW-2021/)   
 
-**-Idea Hub** - *Esther Lui, University of Pittsburgh* - [Link to presentation](http://idea-hub-291916.appspot.com/about) /
-[Link to project](http://idea-hub-291916.appspot.com/home)
+**-Idea Hub** - *Esther Lui, University of Pittsburgh* - [Link to presentation](https://docs.google.com/presentation/d/187WTPWmok2JEOrWhwX9KwhMZabuICf7WItkCkfFlS18/edit#slide=id.g8794a74c9d_0_2475) /
+[Link to project](http://idea-hub-291916.appspot.com/home) / [Additional Info](http://idea-hub-291916.appspot.com/about)
 
 **-Pitt Resource Finder** - *Joseph Flot, University of Pittsburgh* - [Link to presentation](https://jsflot.github.io/ProjectPitch2/) / [Link to project repository](https://github.com/Pitt-Technical-Communications/PittResource-Website)
 
@@ -81,3 +86,5 @@ Samantha Whelpley and Stephen Quigley
 [Stack Overflow](https://stackoverflow.com) - Code questions and aggregated answers.
 
 [Sample Developer Team Workflow](https://nvie.com/posts/a-successful-git-branching-model/) - a decade-old branching model
+
+[GitHub Accesibility](https://government.github.com/accessibility/) - view accessibility issues working with GitHub. 
