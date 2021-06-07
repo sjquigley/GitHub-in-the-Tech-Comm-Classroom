@@ -2,7 +2,7 @@
 
 Use Git to clone repository content to your local computer to edit and manage files remotely.
 
-**Bennefits of this method...**
+**Benefits of this method...**
 
 * work remotely with others within the same repository
 * set up project kanban boards to organize sprints
