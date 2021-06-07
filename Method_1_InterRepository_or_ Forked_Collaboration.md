@@ -75,5 +75,9 @@ At some point, you will want to "download" or "clone" files to your computer whe
 
 Periodically you will want to compare your branches against the upstream main. To do so, choose **Main branch** and click "**fetch upstream**" and then "**Fetch and Merge**" ![Image detailing directions](images/fetch.png).  
 
+## What's Happening on the Repository Owner's End?
+
+On my end, I see pull request populating in my repository. I open and inspect changes, sometimes sort out conflicts, comment, and push the changes into the ATTW-2021 development branch. When these changes look good, I make my own pull request, and merge the ATTW-2021 development branch into the Main branch. 
+
 
 Peace and love, Stephen Quigley, University of Pittsburgh
