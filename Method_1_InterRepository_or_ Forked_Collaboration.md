@@ -2,7 +2,7 @@
 
 Using Git to copy, edit, and compare files inside the GitHub server. In this lesson you will learn the basics of forked collaboration and from there, you can use these same methods to teach others. *Nooooo...this is not a pyramid scam!*
 
-Bennefits of this method...
+Benefits of this method...
 
 * make your own downstream copy of an open-source repository
 * benefit from changes that may occur upstream
@@ -66,14 +66,14 @@ At some point, you will want to "download" or "clone" files to your computer whe
 ![Image detailing directions](images/settings.png)
 2. On the side bar, select "**Pages**."
 ![Image detailing directions](images/pages.png)
-3. Keep the branch in Main. Notice you can select any of the branches to dispay publicly.
+3. Keep the branch in Main. Notice you can select any of the branches to display publicly.
 ![Image detailing directions](images/pages2.png). Click "**save**.
 
 4. Copy the URL GitHub has just given you. After a couple minutes, you will be able to access our website URL in any browser.
 
 ## Stay Up To Date
 
-Periodically you will want to compare your branches against the upstream main. To do so, choose **Main branch** and click "**fetch upstream**" and then "**Fetch and Merge**" ![Image detailing directions](images/fetch.png).  
+Periodically you will want to compare your branches against the upstream main. To do so, choose **Main branch** and click "**fetch upstream**" and then "**Fetch and Merge**" ![Image detailing directions](images/fetch.png). Follow the same directions to align development branches. 
 
 ## What's Happening on the Repository Owner's End?
 
