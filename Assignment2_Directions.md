@@ -23,7 +23,7 @@ Choose your topic--make sure it’s professional. Write a short intro to your su
 
 -[Forecasting with Facebook Prophet in Python Notebook in Google Colab](https://github.com/als429/600/blob/main/assignments/3/directions.md)
 
--[How to Play Golf](https://github.com/sim1029/Golf-Instructions)
+
 
 
 

@@ -15,22 +15,23 @@ Learn...
 
 ## Presentations
 
-**-Writing Infrastructures** *Stephen Quigley, University of Pittsburgh* - [Link to presentation]()
+**-Writing Infrastructures** *Stephen Quigley, University of Pittsburgh* - [Link to presentation](https://sjquigley.github.io/Stephen-Quigley-ATTW-2021/)   
 
-**-Idea Hub** - *Esther Lui, University of Pittsburgh* - [Link to presentation]() /
-[Link to project repository]()
+**-Idea Hub** - *Esther Lui, University of Pittsburgh* - [Link to presentation](http://idea-hub-291916.appspot.com/about) /
+[Link to project](http://idea-hub-291916.appspot.com/home)
 
 **-Pitt Resource Finder** - *Joseph Flot, University of Pittsburgh* - [Link to presentation](https://jsflot.github.io/ProjectPitch2/) / [Link to project repository](https://github.com/Pitt-Technical-Communications/PittResource-Website)
 
 
 ## Workshop Activities
+Samantha Whelpley and Stephen Quigley
 
 **Method #1 [Forked or InterRepository Collaboration](Method_1_InterRepository_Collaboration.md)**
 
 
 (Fork a repository, create your own version while contributing to the base repository upstream.)  
 
-**Method #2 [IntraRepository Collaboration](Method_2_IntraRepository_Collaboration.md) (Best for small group workflow)**
+**Method #2 [IntraRepository Collaboration](Method_2_IntraRepository_Collaboration.md) (Best for small group workflow)** 
 
 (Add collaborators, start a Githib Project kanban board, assign scrum tasks, clone repository using GitHub desktop Git UI, make edits, resolve conflicts, commit changes, merge changes.)
 
@@ -39,8 +40,7 @@ Learn...
 
 **for teachers...**
 
-* scaffold learning by
-* build code literacy into the everyday activities
+* scaffold learning building code literacy into the everyday activities
 * let students take control
 * encourage agile project management and product development methods
 * provide examples
@@ -56,7 +56,7 @@ Learn...
 * write clear comments
 * make pull requests specific to task
 * designate a merge master / or set commit privlages to repository owner
-* don't sit...commit - commit or make pull requests often / push requests oftener.  
+* don't sit...commit - make pull requests often / push requests oftener.  
 
 
 ## Sample Assignment Links

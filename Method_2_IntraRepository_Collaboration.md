@@ -14,7 +14,7 @@ Use Git to clone repository content to your local computer to edit and manage fi
 * if team members don't use Git, they will overwrite files
 * conflict may arise if workflow rules are not established
 
-(note you must be designated a collaborator for this method to work.)
+(note: you must be invited by the repository owner to become a collaborator)
 1. Go to [ATTW GitHub Repository]() Click "Code" and then "Open with GitHub Desktop."
 2. When prompted, click Clone to use Git to copy the repositories to a place on your local files .
 3. Now open the index.html file using a code editor like atom.

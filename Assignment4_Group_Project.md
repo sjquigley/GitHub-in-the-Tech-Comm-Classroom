@@ -3,7 +3,7 @@
 ***This group project will be the basis of our usability test and report, which you will write individually.***
 
 
-Step 1. Each student will make an initial project pitch and attempt to recruit a team interested in pursuing your project. (3-5 students)  
+Step 1. Each student will make an initial project pitch and attempt to recruit a team interested in pursuing your project. (3-5 students) Dream up something new or refit, reapply a past project ([Link to TCRG Repositories](https://github.com/Pitt-Technical-Communications))
 
 Step 2. Once you have formed a team, your team will meet with me to present an initial concept presentation on the assigned day/time. Your group will walk me through your project plan using the [Elevator Pitch Generator template](https://github.com/Pitt-Fuego/elevator-pitch-generator)
 
@@ -64,3 +64,5 @@ In your project presentation, focus on the following:
 SUBMIT
 
 Submit project links including links to your Git Hub repository, final presentation, and your project deliverable.
+
+
