@@ -38,7 +38,7 @@ Samantha Whelpley and Stephen Quigley
 
 **Method #2 [IntraRepository Collaboration](Method_2_IntraRepository_Collaboration.md) (Best for small group workflow)** 
 
-(Add collaborators, start a Githib Project kanban board, assign scrum tasks, clone repository using GitHub desktop Git UI, make edits, resolve conflicts, commit changes, merge changes.)
+(Add collaborators, start a GitHub Project kanban board, assign scrum tasks, clone repository using GitHub desktop Git UI, make edits, resolve conflicts, commit changes, merge changes.)
 
 
 ## Best Practices for GitHub Group Work
@@ -60,7 +60,7 @@ Samantha Whelpley and Stephen Quigley
 * distribute specific tasks
 * write clear comments
 * make pull requests specific to task
-* designate a merge master / or set commit privlages to repository owner
+* designate a merge master / or set commit privileges to repository owner
 * don't sit...commit - make pull requests often / push requests oftener.  
 
 
@@ -77,7 +77,7 @@ Samantha Whelpley and Stephen Quigley
 
 ## GitHub / Code Resources
 
-[GitHub Guides](https://guides.github.com) - an excellent set of tutorials for GitHub learing.
+[GitHub Guides](https://guides.github.com) - an excellent set of tutorials for GitHub learning.
 
 [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/) - code tools designed to support the things we are already doing in our classroom.
 
@@ -87,4 +87,4 @@ Samantha Whelpley and Stephen Quigley
 
 [Sample Developer Team Workflow](https://nvie.com/posts/a-successful-git-branching-model/) - a decade-old branching model
 
-[GitHub Accesibility](https://government.github.com/accessibility/) - view accessibility issues working with GitHub. 
+[GitHub Accessibility](https://government.github.com/accessibility/) - view accessibility issues working with GitHub. 
