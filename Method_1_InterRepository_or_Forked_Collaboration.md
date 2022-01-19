@@ -17,7 +17,7 @@ Disadvantages
 
 
 
-##Directions
+## Directions
 
 1. Fork our [GitHub Repository for the Tech Comm Classroom](https://github.com/sjquigley/GitHub-in-the-Tech-Comm-Classroom).
 ![Image detailing directions](images/fork.png)
