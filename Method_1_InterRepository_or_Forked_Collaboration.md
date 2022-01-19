@@ -1,4 +1,4 @@
-#InterRepository or Forked Collaboration  
+# InterRepository or Forked Collaboration  
 
 Using Git to copy, edit, and compare files inside the GitHub server. In this lesson you will learn the basics of forked collaboration and from there, you can use these same methods to teach others. *Nooooo...this is not a pyramid scam!*
 
