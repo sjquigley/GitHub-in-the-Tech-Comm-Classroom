@@ -1,4 +1,4 @@
-#IntraRepository Collaboration  
+# IntraRepository Collaboration  
 
 Use Git to clone repository content to your local computer to edit and manage files remotely.
 
